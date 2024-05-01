@@ -1,2 +1,2 @@
-# App
-Platform powered by PenguinMod
+# Loader
+The game loader for Scratch Worlds
