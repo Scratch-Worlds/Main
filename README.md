@@ -1,2 +1,2 @@
-# App
-Platform powered by PenguinMod
+# Connect
+Platform powered by PenguinMod and FOCUS.
