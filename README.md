@@ -1,2 +1,2 @@
-# App
-Platform powered by PenguinMod
+# Loader
+Loads games in the app.
